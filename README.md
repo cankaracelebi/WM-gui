@@ -1,5 +1,4 @@
 # World Model Visualizer
-
 Train VAE-based world models on visual game environments, watch reconstructions improve in real-time, explore latent spaces, and let the model dream.
 
 ![Python 3.10+](https://img.shields.io/badge/python-3.10+-blue) ![PyTorch](https://img.shields.io/badge/pytorch-2.0+-red) ![PySide6](https://img.shields.io/badge/gui-PySide6-green)
